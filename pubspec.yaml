@@ -1,7 +1,7 @@
 name: calculator
 description: Calculator class
 version: 1.0.0
-repository: https://github.com/tekartik/sqflite/tree/master/sqflite
+repository: https://github.com/margunwa123/calculator_dart/tree/main
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
