@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:calculator/calculator.dart';
+import 'package:calculator_mario/calculator_mario.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 void main() {
